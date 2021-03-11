@@ -1,6 +1,8 @@
 # Pixel Art Maker
 This project was developed through the Udacity - Front-End Web Developer Nanodegree Program.
 
+Live demo [here](https://pooja02.github.io/pixel-art-maker)
+
 
 ## Description
 
